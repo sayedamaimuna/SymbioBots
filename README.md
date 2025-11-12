@@ -101,9 +101,14 @@ Possible demo components:
 
 ## 📁 Repository Structure
 
-
-├── dashboard/                 # Dashboard visualization mockup
-│   └── index.html
-├── data/                      # Sample environmental data
-│   └── ecosystem_data.csv
-└── media/                     # Images, mockups, or demo videos
+SymbioBots/
+├── README.md                 ← main documentation  
+├── concept_design/           ← your diagrams (already done ✅)
+├── prototype_code/
+│   └── symbiobots_flow.py    ← the Python pseudo-code file
+├── dashboard/
+│   └── index.html            ← the dashboard file (we’ll make this next)
+├── data/
+│   └── ecosystem_data.csv    ← sample data file
+└── media/
+    └── concept_poster.png    ← your images or mockups
