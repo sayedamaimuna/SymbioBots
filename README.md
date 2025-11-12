@@ -100,15 +100,20 @@ Possible demo components:
 ---
 
 ## 📁 Repository Structure
+  
+## 📂 Project Overview & Demos
 
-SymbioBots/
-├── README.md                 #Project overview and documentation  
-├── concept_design/           #Diagrams of system component
-├── prototype_code/
-│   └── symbiobots_flow.py    #Pseudo-code for communication flow
-├── dashboard/
-│   └── index.html            #Dashboard visualization mockup
-├── data/
-│   └── ecosystem_data.csv    #Sample emvironmental data
-└── media/
-    └── concept_poster.png    #Images mockups or demo videos
+***Concept Designs***
+— [System Diagram](concept_design/diagram1.jpg)
+
+***Prototype Code***
+— [Python Communication Flow](prototype_code/symbiobots_flow.py)
+
+***Dashboard***
+— [HTML Dashboard Mockup](dashboard/index.html)
+
+***Data***
+— [Sample Ecosystem Data CSV](data/ecosystem_data.csv)
+
+***Media***
+— [Simulation Output Screenshot](media/simulation_output.png)
