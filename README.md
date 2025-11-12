@@ -101,12 +101,7 @@ Possible demo components:
 
 ## 📁 Repository Structure
 
-SymbioBots/ ├── README.md                  # Project overview and documentation
-├── concept_design/            # ***Diagrams of system components***
 
-├── prototype_code/            # ***Pseudo-code for communication***
-flow
-│   └── symbiobots_flow.py
 ├── dashboard/                 # Dashboard visualization mockup
 │   └── index.html
 ├── data/                      # Sample environmental data
