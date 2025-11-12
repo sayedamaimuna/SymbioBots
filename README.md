@@ -104,7 +104,7 @@ Possible demo components:
 ## 📂 Project Overview & Demos
 
 ***Concept Designs***
-— [System Diagram](concept_design/diagram1.jpg)
+— ![System Diagram](concept_design/diagram1.jpg)
 
 ***Prototype Code***
 — [Python Communication Flow](prototype_code/symbiobots_flow.py)
