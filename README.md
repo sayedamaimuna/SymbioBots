@@ -116,4 +116,4 @@ Possible demo components:
 — [Sample Ecosystem Data CSV](data/ecosystem_data.csv)
 
 ***Media***
-— [Simulation Output Screenshot](media/simulation_output.png)
+— [Simulation Output](media/Symbiobots_Poster.jpg)
