@@ -1,4 +1,4 @@
-# SymbioBots: Self-Sustaining Green Colonies  
+# SymbioBots: AI-Powered Sustainable Robotics Ecosystem 
 > Robots that grow forests while humans sleep 🤖💚  
 
 --
